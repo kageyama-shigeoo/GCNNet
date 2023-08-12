@@ -5,4 +5,8 @@ image
 labels
 velodyne
 
---- this should be the files name. Download the files from the kitti dataset webpage, there you will find the files named "Download left color images of object data set ", "Download Velodyne point clouds, if you want to use laser information ", "Download camera calibration matrices of object data set", "Download training labels of object data set "
+--- The files are recommended to be renamed as it is given here. 
+Download the files from the kitti dataset webpage, there you will 
+find the files named "Download left color images of object data set ", 
+"Download Velodyne point clouds, if you want to use laser information ", "Download camera 
+calibration matrices of object data set", "Download training labels of object data set "
