@@ -21,11 +21,11 @@ Clone the repository recursively:
 https://github.com/kageyama-shigeoo/GCNNet.git --recursive
 ```
 ## Run a checkpoint
-Test on the validation split:
+Run an inference on the validation split:
 ```
 bash run_on_validation.sh
 ```
-Test on the test dataset:
+Run an inference on the test dataset:
 ```
 bash run_on_test.sh
 ```
